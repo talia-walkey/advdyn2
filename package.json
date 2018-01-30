@@ -1,0 +1,23 @@
+{
+  "name": "advdyn2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talia-walkey/advdyn2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talia-walkey/advdyn2/issues"
+  },
+  "homepage": "https://github.com/talia-walkey/advdyn2#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
